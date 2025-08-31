@@ -47,7 +47,7 @@
 ---
 
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Frameworks
 <div align="left">
   <img  
     alt="HTML"
