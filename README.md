@@ -24,61 +24,70 @@
 - [Meu Site](https://github.com/SantiagoCMS/meu-portifolio#)
 - [Landing Page - Plataforma de Ensino](https://github.com/SantiagoCMS/alura-plus#)
 
+
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 📊 Estatísticas
+<div align="left">
+    <img 
+      alt="GitHub Stats" 
+      height="200" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api?username=SantiagoCMS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+  
+  <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoCMS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+  
+</div>
 
-<img 
-    align="left" 
+---
+
+
+## 🤖 Linguagens e Tecnologias
+<div align="left">
+  <img  
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NetBeans" 
-    title="NetBeans"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" 
-/>
+  />
+  <img
+      alt="CSS" 
+      title="CSS"
+      width="30px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+  <img 
+      alt="JavaScript" 
+      title="JavaScript"
+      width="30px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+      alt="Python" 
+      title="Python"
+      width="30px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
+  <img 
+      alt="Java" 
+      title="Java"
+      width="30px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+  />
+  <img 
+      alt="NetBeans" 
+      title="NetBeans"
+      width="30px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" 
+  />
 
-<br/>
-<br/>
+</div>
+
 
 
 ---
@@ -152,28 +161,3 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
 />
 
-
-<br/>
-<br/>
-
----
-
-## 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SantiagoCMS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoCMS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
